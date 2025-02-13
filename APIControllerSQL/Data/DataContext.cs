@@ -10,6 +10,6 @@ namespace APIControllerSQL.Data
 
         }
 
-        public DbSet<Superhero> Superheroes { get; set; }
+        public DbSet<Forceuser> Forceusers { get; set; }
     }
 }
